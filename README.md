@@ -74,5 +74,5 @@ After execution, the script updates the Excel file with:
 
 ## Author
 
-- Author Name: `ARUNPRAGASH.S`
+- Author Name: `ARUNPRAGASH.D`
 - IT No: `IT23314092`
